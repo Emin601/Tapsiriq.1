@@ -5,13 +5,13 @@
     padding: 0;
     text-decoration: none;
     list-style: none;
-    color: white;
+    color:  rgb(142, 5, 5);
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
 
 body{
-    background-image: url(https://media.istockphoto.com/id/1044244246/photo/blue-moon-over-poste-lafayette-in-mauritius.jpg?s=612x612&w=0&k=20&c=e6HFUELN9qMJmMk-4lKwBsa_aT3ZlVOcH_6yrZKOmZs=);
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fspace%2520wallpaper%2F&psig=AOvVaw19dI1l39Q9D-Xdf7vOHSaF&ust=1668509393989000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMC1jYDArfsCFQAAAAAdAAAAABAE);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -29,7 +29,7 @@ ul{
 }
 
 ul li{
-    margin:  20px;
+    margin:  30px;
     font-weight: 600;
 }
 h1{
